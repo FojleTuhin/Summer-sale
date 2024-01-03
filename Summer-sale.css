@@ -1,0 +1,172 @@
+body {
+    font-family: 'Itim', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    background-color: lightgray;
+}
+
+
+.for-mid {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+/* header start from here. */
+header {
+    background-color: #F9F6E2;
+}
+
+header .for-mid .row .col-md-6 p {
+    margin-top: 40px;
+}
+
+header .for-mid .row .col-md-6 h2 {
+    margin-top: 30px;
+}
+
+header img {
+    width: 400px;
+    position: relative;
+    bottom: -35px;
+}
+
+
+header .row .first-half {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 110px;
+}
+
+header .row .col-md-6 span {
+    width: 150px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #E527B2;
+    color: white;
+    font-weight: bold;
+
+}
+
+
+
+/* header end here. */
+/* Main start from here. */
+
+main {
+    margin-top: 90px;
+}
+
+main h3 {
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+.star-image {
+    display: flex;
+    margin-top: 15px;
+}
+
+.star-image img {
+    width: 20px;
+}
+
+.main-img {
+    width: 200px;
+    height: 130px;
+    border-radius: 10px;
+    background-color: lightgrey;
+}
+
+.img-1,
+.img-2,
+.img-3 {
+    height: 100px;
+}
+
+.img-1 {
+    margin: 10px 55px;
+}
+
+.img-2 {
+    margin: 10px 50px;
+}
+
+.img-3 {
+    margin: 10px 48px;
+}
+
+
+.box {
+    width: 240px;
+    height: 270px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    margin: 10px;
+  
+}
+
+
+.col-md-9 .row {
+    margin-bottom: 70px;
+}
+
+button {
+    background-color: #E527B2;
+    width: 95px;
+    height: 39px;
+    border-radius: 0 5px 5px 0;
+    border: none;
+    color: white;
+    font-weight: bold;
+
+}
+
+input {
+    width: 135px;
+    text-align: center;
+    border-right: none;
+    border: 1px solid lightgray;
+    border-radius: 5px 0 0 5px;
+
+}
+
+.top-row {
+    background-color: white;
+    margin-top: 75px;
+    margin-left: 5px;
+    padding: 10px;
+    padding-bottom: 20px;
+    border-radius: 8px;
+}
+
+.top-row h5 {
+    margin-bottom: 10px;
+}
+
+
+.bottom-row {
+    margin-left: 5px;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 8px;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+}
+
+.bottom-row h6{
+    padding-left: -60px;
+    margin-left: -15px;
+
+}
+
+.bottom-row span{
+    opacity: 0.5;
+}
+
+
+
+/* main end here. */
